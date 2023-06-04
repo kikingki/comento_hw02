@@ -37,6 +37,12 @@
     <https://velog.io/kikingki/post> (O)
     ```
     
+    ### REST API VS RESTful API?
+
+    REST API: REST를 기반으로 한 API
+
+    RESTful API: REST의 설계 규칙을 **잘 지켜서 설계**된 API → 이해하기 쉽고 사용하기 쉬운 REST API
+
     ---
 
     ### HTTP 통신 과정
